@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e957f78788221684ab3ff2cdd22b4e8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fillerBlock: {fileID: 11400000, guid: c81f7d574c58153439587db9da9fe7ef, type: 2}
+  - midBlock: {fileID: 11400000, guid: f907f40ef712de74faf64c83f7b3a0eb, type: 2}
+  - surfaceBlock: {fileID: 11400000, guid: 79a9d5e5c091a1341a48c0907d4933c6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

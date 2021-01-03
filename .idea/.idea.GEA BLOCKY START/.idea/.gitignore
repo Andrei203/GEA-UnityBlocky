@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.GEA BLOCKY START.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Uni work\Year2\GEA\GEA BLOCKY START\.idea\.idea.GEA BLOCKY START\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
