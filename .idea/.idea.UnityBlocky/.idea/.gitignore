@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.UnityBlocky.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Uni work\Year2\GEA\UnityBlocky\.idea\.idea.UnityBlocky\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
